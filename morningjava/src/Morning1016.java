@@ -16,6 +16,7 @@ public class Morning1016 {
                     System.out.printf("%3d",regAry[i][j]);
                }
                System.out.println();
+               //ㅇㅇ
           }
      }
 }
